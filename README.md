@@ -16,7 +16,9 @@ The MORPH Album 2 database is the largest aging database containing about 78000 
 
 In this project, 700 images of 100 subjects were randomly selected from the database. Each selected subject has 6 training images at younger age and 1 testing image at older age. These selected images have relatively good quality with similar lighting conditions, facial expressions, poses, and the like. Therefore, this dataset was suitable for the aging-related experiments in this project.
 
-The dataset was preprocessed using my image preprocessing program. You may find it in MORPH_PROC folder.
+The dataset was preprocessed using my image preprocessing program. It is provided as a zip file named MORPH_PROC.
+
+Please download the dataset and unzip it to the same folder of the codes.  
 
 # User Guide
 
