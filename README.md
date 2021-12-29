@@ -6,9 +6,7 @@ Hello everyone, this is Minghao Ye. This repository contains my project for EL91
 
 Face recognition became a popular issue in the late 20th century and gained huge progress during the 1990s. But, aging issues still remain as a huge problem for face recognition. 
 
-In this project, I am trying to find a good way to solve this problem. The idea is to use Local Binary Patterns (LBP) to effectively extract facial features that are invariant to aging process and conduct aging face recognition based on selected aging database from MORPH Album 2, one of the most famous public available aging face database in the world.
-
-For detailed description, please refer to my project report: https://github.com/Terrakagari/LBP-for-Aging-Face-Recognition/blob/master/IntroML_Project_Report.pdf 
+In this project, I am trying to find a good way to solve this problem. The idea is to use Local Binary Patterns (LBP) to effectively extract facial features that are invariant to aging process and conduct aging face recognition based on selected aging database from MORPH Album 2, one of the most famous public available aging face database in the world. 
 
 # About Dataset
 
