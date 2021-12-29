@@ -1,6 +1,6 @@
 # LBP for Aging Face Recognition
 
-Hello everyone, this is Minghao Ye. This repository contains my project for EL9123 Introduction to Machine Learning @ NYU Tandon.
+Hello everyone, this is Minghao Ye. This repository contains my project for EL9123 Introduction to Machine Learning @ NYU Tandon in Fall 2017.
 
 # Project Summary
 
